@@ -1,5 +1,5 @@
 Para rodar
 
 ```bash
-$ python3 transmissao_energia.py
+$ python3 visita_cidades.py
 ```
